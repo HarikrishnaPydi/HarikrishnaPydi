@@ -1,24 +1,21 @@
-h1 align="center">👋 Hi there, I'm Tatenda Prince Moyo</h1>
-<h3 align="center">🌩️  Cloud & DevOps Engineer | Passionate about Building Scalable Cloud Solutions</h3>
+h1 align="center">👋 Hi Everyone, I'm Harikrishna Pydi</h1>
+<h3 align="center">🌩️  I Passionate Cloud & DevOps Engineer from India I Work in the Corporate IT Sector</h3>
 
 ---
 
 🚀 **Currently Exploring:** Docker 🐳 | Kubernetes ☸️
 🤝 **Open to Collaborations:** Cloud Native & DevOps Projects
 💬 **Ask me about:** AWS, CI/CD, Infrastructure as Code
-📂 **My Work:** [GitHub Portfolio](https://github.com/Tatenda-Prince)
-📫 **Let's connect:** tatendamoyo539@gmail.com
-⚽ **Fun Fact:** Big football fan — Forever Chelsea 💙
+📂 **My Work:** [GitHub Portfolio]()
+📫 **Let's connect:** haripydi777@gmail.com
+⚽ **Fun Fact:** Big Cricket fan — Forever India 💙
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/tatendapri94335" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/tatenda-moyo-9a69b8321/" target="_blank">
+  <a href="https://www.linkedin.com/in/harikrishnapydi/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p> 
@@ -27,8 +24,6 @@ h1 align="center">👋 Hi there, I'm Tatenda Prince Moyo</h1>
 #### ☁️ Cloud Platforms
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="GCP" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" width="50" height="50"/>
 </p>
 
 #### 📦 Containers & Orchestration
@@ -61,15 +56,12 @@ h1 align="center">👋 Hi there, I'm Tatenda Prince Moyo</h1>
 
 #### 🧑<200d>💻 Programming & Scripting
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50" height="50"/
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" title="YAML" width="50" height="50"/>
 </p>
 #### 💾 Databases
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="50" height="50"/>
 </p>
 
@@ -77,7 +69,7 @@ h1 align="center">👋 Hi there, I'm Tatenda Prince Moyo</h1>
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tatenda-Prince&show_icons=true&theme=radical" alt="Tatenda Prince GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harikrishna Pydi&show_icons=true&theme=radical" alt="Tatenda Prince GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatenda-Prince&layout=compact&langs_count=8&theme=radical" alt="Most Used Languages" />
