@@ -54,7 +54,7 @@ h1 align="center">👋 Hi Everyone, I'm Harikrishna Pydi</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="50" height="50"/>
 </p>
 
-#### 🧑<200d>💻 Programming & Scripting
+#### 🧑💻 Programming & Scripting
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50" height="50"/
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" title="YAML" width="50" height="50"/>
@@ -69,11 +69,12 @@ h1 align="center">👋 Hi Everyone, I'm Harikrishna Pydi</h1>
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harikrishna Pydi&show_icons=true&theme=radical" alt="Tatenda Prince GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harikrishna-Pydi&show_icons=true&theme=radical" alt="Harikrishna Pydi GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatenda-Prince&layout=compact&langs_count=8&theme=radical" alt="Most Used Languages" />
 </p>
+
 
 
 
