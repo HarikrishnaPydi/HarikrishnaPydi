@@ -71,13 +71,11 @@
 ---
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harikrishna-Pydi&show_icons=true&theme=radical" alt="Harikrishna Pydi GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatenda-Prince&layout=compact&langs_count=8&theme=radical" alt="Most Used Languages" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harikrishnapydi&show_icons=true&locale=en&layout=compact" alt="harikrishnapydi" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harikrishnapydi&show_icons=true&locale=en" alt="harikrishnapydi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harikrishnapydi&" alt="harikrishnapydi" /></p>
 
 
 
